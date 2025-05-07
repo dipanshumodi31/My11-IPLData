@@ -3,7 +3,7 @@
 
 This project presents a detailed **data analysis of IPL cricket tournament** using data collected directly from [ESPNcricinfo](https://www.espncricinfo.com/) through **Bright Data’s web scraper**. It highlights key patterns, player performances, and match outcomes with the help of **Power BI dashboards**.
 
-![Dashboard Screenshot](images/dashboard.png) <!-- Add a screenshot here -->
+![Dashboard Screenshot](images/allrounders.jpg) <!-- Add a screenshot here -->
 
 ---
 
