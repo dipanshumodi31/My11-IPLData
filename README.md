@@ -53,7 +53,7 @@ By integrating scraping, ETL, and dynamic visual reporting, the project provided
 The data for the **My11-IPLData** project is collected from **ESPNcricinfo** using **Bright Data’s web scraping tools**. The process involves:
 1. **Web Scraping with Bright Data**: A scraper is used to extract comprehensive IPL 2024 player data, including match statistics, batting and bowling performance, and player roles.
 
-![MathcResults](images/web_scrapping_match_results.jpg)
+![MathcResults](images/web_scrapping_results.jpg)
 ![BattingSummary](images/web_scrapping_batting_summary.jpg)
 ![BowlingSummary](images/web_scrapping_bowling_summary.jpg)
 ![PlayerInfo](images/web_scrapping_player_info.jpg)
